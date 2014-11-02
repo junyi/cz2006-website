@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "OldBird": {
+            "applicationId": "BRCNzsuQ6DUIpO7tBRWn1nAPwk8qrDnlWSXURNsm", 
+            "masterKey": "1YIwXYa5lp3wjSQ0R0JRQjNcOx79epvVP38BmUpa"
+        }, 
+        "_default": {
+            "link": "OldBird"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
